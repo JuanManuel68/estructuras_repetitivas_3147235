@@ -50,7 +50,7 @@ paises=[
                 "luque",
                 "pedro juan caballero"
             ],  
-        "superficie" : 406752
+        "superficie" : 406.752
     }
 ]
 for pais in paises:  
